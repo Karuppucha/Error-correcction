@@ -1,0 +1,57 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgba(241,231,103,1);
+}
+h2 a{  
+    margin-left: 30%;
+    color: green;  
+    text-decoration: none;
+}
+ h2 a:hover{
+    color: red;
+    text-decoration: underline;
+}
+table,tr,td{
+    border: 3px solid whitesmoke;
+    border-collapse: collapse;
+    padding:10px 20px;
+    width: 500px;
+    margin-left: 40px;
+    color: whitesmoke;
+}
+table{
+    margin-left: 25%;
+}
+.n1{
+    background-color: rgb(55, 92, 55);
+}
+.n2{
+    background-color: rgb(190,39,39);
+}
+.n3{
+    background-color: aquamarine;
+}
+.n4{
+    background-color:rgb(47,6,196);
+}
+.n5{
+    background-color: rgb(17,85,8);
+}
+.n6{
+
+    background-color: rgb(22,4,4);
+}
+.n7{
+    background-color: orange;
+}
+.n8{
+    background-color: rgb(47,6,196);
+}
+.n9{
+    background-color:rgb(250,92,242) ;
+}
+
